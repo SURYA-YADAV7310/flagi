@@ -1,0 +1,39 @@
+#ab{
+    color:#FF5733;
+    height: 100px;
+    width: 400px;
+    border: 2px black;
+    border-style:solid;
+    background-color: #e02618;
+    
+}
+
+#cd{
+    color:rgb(84, 56, 161);
+    height: 100px;
+    width: 400px;
+    border: 2px black;
+    border-style: solid;
+    margin-top:0 ;
+}
+
+
+#de{color: aqua;
+    height: 100px;
+    width: 400px;
+    border: 2px black;
+    border-style: solid;
+    background-color: green;
+    margin-bottom: 20px;
+
+}
+div{
+    text-align: center;
+    margin-left: 70px;
+}
+
+
+img{
+    position: relative;
+    bottom: 7px;
+}
